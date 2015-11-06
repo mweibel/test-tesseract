@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B191E73CD355A8EA7C8CCCDC6B07B6A7DE020437" : 0,
+    "F9FE36C44026D11AFEE73771EE8126B7F8D2DCDD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E342F2BA-A247-408B-9B64-44000CF0DA66",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B191E73CD355A8EA7C8CCCDC6B07B6A7DE020437" : "Tesseract-OCR-iOS\/",
+    "F9FE36C44026D11AFEE73771EE8126B7F8D2DCDD" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "test-tesseract",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "test-tesseract.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mweibel\/Tesseract-OCR-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B191E73CD355A8EA7C8CCCDC6B07B6A7DE020437"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mweibel\/receipt-parser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9FE36C44026D11AFEE73771EE8126B7F8D2DCDD"
+    }
+  ]
+}
