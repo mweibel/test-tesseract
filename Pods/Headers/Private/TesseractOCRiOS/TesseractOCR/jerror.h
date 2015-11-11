@@ -1,1 +1,1 @@
-../../../../../../Tesseract-OCR-iOS/TesseractOCR/include/jerror.h
+../../../../TesseractOCRiOS/TesseractOCR/include/jerror.h

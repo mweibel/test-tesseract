@@ -1,1 +1,1 @@
-../../../../../../Tesseract-OCR-iOS/TesseractOCR/include/jconfig.h
+../../../../TesseractOCRiOS/TesseractOCR/include/jconfig.h

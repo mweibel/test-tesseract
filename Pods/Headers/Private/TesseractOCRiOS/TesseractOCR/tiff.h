@@ -1,1 +1,1 @@
-../../../../../../Tesseract-OCR-iOS/TesseractOCR/include/tiff.h
+../../../../TesseractOCRiOS/TesseractOCR/include/tiff.h

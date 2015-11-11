@@ -13,8 +13,8 @@
 		4C3323601BED19A00057F362 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C33235F1BED19A00057F362 /* Assets.xcassets */; };
 		4C3323631BED19A00057F362 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C3323611BED19A00057F362 /* LaunchScreen.storyboard */; };
 		4C33236E1BED19A00057F362 /* test_tesseractTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C33236D1BED19A00057F362 /* test_tesseractTests.swift */; };
-		4C3323791BED1AB90057F362 /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = 4C3323781BED1AB90057F362 /* tessdata */; };
 		4C33237B1BED1CF70057F362 /* image_sample.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C33237A1BED1CF70057F362 /* image_sample.jpg */; };
+		4C6E94E31BF3B84C003A7F9F /* tessdata in Resources */ = {isa = PBXBuildFile; fileRef = 4C6E94E21BF3B84C003A7F9F /* tessdata */; };
 		53E7209117D7B334AFD81F49 /* Pods_test_tesseract.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D7AF633B536472C692FE9BE /* Pods_test_tesseract.framework */; };
 /* End PBXBuildFile section */
 
@@ -41,8 +41,8 @@
 		4C3323691BED19A00057F362 /* test-tesseractTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "test-tesseractTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C33236D1BED19A00057F362 /* test_tesseractTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_tesseractTests.swift; sourceTree = "<group>"; };
 		4C33236F1BED19A00057F362 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4C3323781BED1AB90057F362 /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; name = tessdata; path = ../../../../../../../usr/local/homebrew/Cellar/tesseract/3.04.00/share/tessdata; sourceTree = "<group>"; };
 		4C33237A1BED1CF70057F362 /* image_sample.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image_sample.jpg; sourceTree = "<group>"; };
+		4C6E94E21BF3B84C003A7F9F /* tessdata */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tessdata; sourceTree = SOURCE_ROOT; };
 		4D7AF633B536472C692FE9BE /* Pods_test_tesseract.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test_tesseract.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -97,8 +97,8 @@
 		4C3323571BED19A00057F362 /* test-tesseract */ = {
 			isa = PBXGroup;
 			children = (
+				4C6E94E21BF3B84C003A7F9F /* tessdata */,
 				4C33237A1BED1CF70057F362 /* image_sample.jpg */,
-				4C3323781BED1AB90057F362 /* tessdata */,
 				4C3323581BED19A00057F362 /* AppDelegate.swift */,
 				4C33235A1BED19A00057F362 /* ViewController.swift */,
 				4C33235C1BED19A00057F362 /* Main.storyboard */,
@@ -214,7 +214,7 @@
 			files = (
 				4C3323631BED19A00057F362 /* LaunchScreen.storyboard in Resources */,
 				4C33237B1BED1CF70057F362 /* image_sample.jpg in Resources */,
-				4C3323791BED1AB90057F362 /* tessdata in Resources */,
+				4C6E94E31BF3B84C003A7F9F /* tessdata in Resources */,
 				4C3323601BED19A00057F362 /* Assets.xcassets in Resources */,
 				4C33235E1BED19A00057F362 /* Main.storyboard in Resources */,
 			);

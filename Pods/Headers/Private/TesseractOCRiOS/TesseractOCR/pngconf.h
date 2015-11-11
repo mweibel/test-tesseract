@@ -1,1 +1,1 @@
-../../../../../../Tesseract-OCR-iOS/TesseractOCR/include/pngconf.h
+../../../../TesseractOCRiOS/TesseractOCR/include/pngconf.h

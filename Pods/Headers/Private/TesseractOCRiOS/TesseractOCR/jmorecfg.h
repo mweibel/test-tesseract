@@ -1,1 +1,1 @@
-../../../../../../Tesseract-OCR-iOS/TesseractOCR/include/jmorecfg.h
+../../../../TesseractOCRiOS/TesseractOCR/include/jmorecfg.h

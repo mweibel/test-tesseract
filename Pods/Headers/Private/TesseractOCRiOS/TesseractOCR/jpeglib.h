@@ -1,1 +1,1 @@
-../../../../../../Tesseract-OCR-iOS/TesseractOCR/include/jpeglib.h
+../../../../TesseractOCRiOS/TesseractOCR/include/jpeglib.h

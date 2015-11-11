@@ -14,7 +14,7 @@ class ViewController: UIViewController, G8TesseractDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let tesseract = G8Tesseract.init(language: "eng+ita")
+        let tesseract = G8Tesseract.init(language: "eng")
         tesseract.delegate = self;
         tesseract.charWhitelist = "0123456789";
         tesseract.image = UIImage.init(named: "image_sample.jpg")!.g8_blackAndWhite()

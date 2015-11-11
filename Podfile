@@ -4,7 +4,7 @@
 use_frameworks!
 
 target 'test-tesseract' do
-	pod 'TesseractOCRiOS', :path => '../Tesseract-OCR-iOS'
+	pod 'TesseractOCRiOS', :git => 'https://github.com/mweibel/Tesseract-OCR-iOS', :branch => 'feature/fix-podspec'
 end
 
 target 'test-tesseractTests' do
